@@ -5,7 +5,8 @@
 "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/Palette/main/Palette%20walls/Palette%20(1).png",
 "name": "Palette 1",
 "collections": "Palette"
-},{
+},
+{
 "author": "Raj Arya",
 "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/Palette/main/Palette%20walls/Palette%20(2).png",
 "name": "Palette 2",
@@ -107,7 +108,6 @@
 "name": "Palette 18",
 "collections": "Palette"
 },
-
 {
 "author": "Raj Arya",
 "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/Palette/main/Palette%20walls/Palette%20(19).png",
@@ -119,7 +119,7 @@
 "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/Palette/main/Palette%20walls/Palette%20(20).png",
 "name": "Palette 20",
 "collections": "Palette"
-},
+}
 
 
 ]
